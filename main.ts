@@ -1,3 +1,3 @@
 console.log('hello typescript')
 
-console.log('this is a merge ')
+console.log('merge again ,delete No.2 row')

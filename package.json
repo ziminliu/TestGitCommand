@@ -1,0 +1,20 @@
+{
+  "name": "test-git-command",
+  "version": "1.0.0",
+  "description": "learn git ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziminliu/TestGitCommand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziminliu/TestGitCommand/issues"
+  },
+  "homepage": "https://github.com/ziminliu/TestGitCommand#readme"
+}

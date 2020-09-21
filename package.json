@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/ziminliu/TestGitCommand/issues"
   },
-  "homepage": "https://github.com/ziminliu/TestGitCommand#readme"
+  "homepage": "https://github.com/ziminliu/TestGitCommand#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }

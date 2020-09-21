@@ -1,0 +1,6 @@
+{
+  "commitlint",
+    {
+      extends: ["@commitlint/config-conventional"],
+    };
+}
